@@ -1,16 +1,23 @@
-### Hi there 👋
+<h1 align="center">Full stack PHP/Python/Vue/React Developer</h1>
 
-<!--
-**robjohn8989/robjohn8989** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
+<p align="center">
+    <a href="https://www.linkedin.com/in/robert-johnson-2ab144221/" target="_blank" rel="noopener noreferrer"><img align="center" src="Assets/LinkedinBtn.png" width="150px" /></a>
+    <a href="https://robjohn8989.github.io" target="_blank" rel="noopener noreferrer"><img align="center" src="Assets/PortfolioBtn.png" width="150px" /></a>
+</p>
 
-Here are some ideas to get you started:
+---
+### Full-stack software developer with 8+ yrs of experience 
+####   C/C++/C#/Python Software Developer with more than 10 years of experience in full System Development Life Cycle (Requirement Analysis, Design, Development, Testing, Deployment and support).
+####   Experience of working with enterprise technologies like C, C++, C#, Python, Java, Database, and Visual Studio.
+####   Computer Scientist - expericed in Computer Vision, Image Processing, Signal Processing, and Machine Learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+---
+### Status
+![Github Stats](https://github-readme-stats.vercel.app/api?username=robjohn8989&count_private=true&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robjohn8989&hide=TeX&layout=compact)
+
+---
+### Github Skyline
+<a href="https://skyline.github.com/robjohn8989/2023" title="2023 GitHub Skyline"><img src="https://skyline.github.com/robjohn8989/2023.png" alt="2023 GitHub Skyline" width="50%" /></a>
